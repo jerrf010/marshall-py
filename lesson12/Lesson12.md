@@ -1,10 +1,10 @@
 # Lesson 12
 
-## Triangle Times (CCC 2015 J1)
+## Triangle Times (CCC 2014 J1)
 
 __YouTube Link:__ [https://www.youtube.com/watch?v=mPHv1YZXJ9o](https://www.youtube.com/watch?v=lethXE2Qu04)
 
-In this lesson, we are learning how to solve the [Triangle Times question](https://dmoj.ca/problem/ccc15j1).
+In this lesson, we are learning how to solve the [Triangle Times question](https://dmoj.ca/problem/ccc14j1).
 
 Given a Triangle:
     
